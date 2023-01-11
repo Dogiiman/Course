@@ -1,2 +1,1 @@
-# Course
-description Basica
+proyecto clonar github a escritorio
